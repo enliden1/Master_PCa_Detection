@@ -1,0 +1,128 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+ProstateX-0122-6.jpg,600,600,Usignificant,267,123,367,187
+ProstateX-0122-7.jpg,600,600,Usignificant,255,123,343,199
+ProstateX-0122-8.jpg,600,600,Usignificant,267,135,367,187
+ProstateX-0122-9.jpg,600,600,Usignificant,267,135,343,175
+ProstateX-0122-12.jpg,600,600,Usignificant,183,195,295,283
+ProstateX-0122-13.jpg,600,600,Usignificant,207,195,307,283
+ProstateX-0122-14.jpg,600,600,Usignificant,219,207,331,307
+ProstateX-0122-15.jpg,600,600,Usignificant,243,243,331,319
+ProstateX-0122-16.jpg,600,600,Usignificant,255,267,319,307
+ProstateX-0124-9.jpg,600,600,Usignificant,424,435,475,475
+ProstateX-0124-10.jpg,600,600,Usignificant,412,423,475,475
+ProstateX-0002-4.jpg,600,600,Clinically Significant,183,327,283,391
+ProstateX-0002-5.jpg,600,600,Clinically Significant,171,315,295,403
+ProstateX-0002-6.jpg,600,600,Clinically Significant,159,351,259,427
+ProstateX-0002-7.jpg,600,600,Clinically Significant,171,351,295,427
+ProstateX-0002-8.jpg,600,600,Clinically Significant,183,363,271,427
+ProstateX-0002-9.jpg,600,600,Usignificant,339,363,415,403
+ProstateX-0002-10.jpg,600,600,Usignificant,327,351,403,403
+ProstateX-0002-11.jpg,600,600,Usignificant,315,339,391,403
+ProstateX-0002-12.jpg,600,600,Usignificant,303,327,379,391
+ProstateX-0064-14.jpg,600,600,Usignificant,183,339,259,403
+ProstateX-0064-15.jpg,600,600,Usignificant,183,339,247,403
+ProstateX-0064-16.jpg,600,600,Usignificant,159,339,259,403
+ProstateX-0064-17.jpg,600,600,Usignificant,171,351,235,403
+ProstateX-0157-3.jpg,600,600,Usignificant,207,435,259,463
+ProstateX-0157-4.jpg,600,600,Usignificant,195,423,259,475
+ProstateX-0157-5.jpg,600,600,Usignificant,195,423,235,463
+ProstateX-0157-5.jpg,600,600,Usignificant,267,255,355,331
+ProstateX-0157-6.jpg,600,600,Usignificant,207,243,367,331
+ProstateX-0157-7.jpg,600,600,Usignificant,207,243,355,319
+ProstateX-0157-8.jpg,600,600,Usignificant,231,255,355,331
+ProstateX-0061-5.jpg,600,600,Usignificant,195,291,235,331
+ProstateX-0061-6.jpg,600,600,Usignificant,195,291,259,343
+ProstateX-0061-7.jpg,600,600,Usignificant,159,291,259,367
+ProstateX-0061-8.jpg,600,600,Usignificant,123,267,307,439
+ProstateX-0061-9.jpg,600,600,Usignificant,123,267,295,451
+ProstateX-0061-10.jpg,600,600,Usignificant,135,231,247,379
+ProstateX-0123-10.jpg,600,600,Clinically Significant,315,411,379,451
+ProstateX-0123-11.jpg,600,600,Clinically Significant,339,399,391,439
+ProstateX-0123-12.jpg,600,600,Clinically Significant,327,375,403,439
+ProstateX-0123-13.jpg,600,600,Clinically Significant,315,375,403,427
+ProstateX-0123-14.jpg,600,600,Clinically Significant,303,363,355,427
+ProstateX-0123-15.jpg,600,600,Clinically Significant,303,363,355,403
+ProstateX-0106-4.jpg,600,600,Usignificant,159,327,211,379
+ProstateX-0106-5.jpg,600,600,Usignificant,183,339,235,403
+ProstateX-0106-6.jpg,600,600,Usignificant,171,339,247,415
+ProstateX-0106-7.jpg,600,600,Usignificant,183,363,247,403
+ProstateX-0106-12.jpg,600,600,Clinically Significant,243,171,307,223
+ProstateX-0106-13.jpg,600,600,Clinically Significant,243,159,331,235
+ProstateX-0106-14.jpg,600,600,Clinically Significant,255,171,319,211
+ProstateX-0044-6.jpg,600,600,Usignificant,303,303,451,391
+ProstateX-0044-7.jpg,600,600,Usignificant,327,279,451,379
+ProstateX-0044-8.jpg,600,600,Usignificant,315,279,463,391
+ProstateX-0044-9.jpg,600,600,Usignificant,315,291,451,367
+ProstateX-0044-10.jpg,600,600,Usignificant,279,267,451,367
+ProstateX-0044-11.jpg,600,600,Usignificant,279,267,427,367
+ProstateX-0044-12.jpg,600,600,Usignificant,279,267,391,343
+ProstateX-0044-13.jpg,600,600,Usignificant,279,243,391,355
+ProstateX-0044-14.jpg,600,600,Usignificant,267,243,367,355
+ProstateX-0044-15.jpg,600,600,Usignificant,279,243,355,343
+ProstateX-0163-8.jpg,600,600,Usignificant,315,219,403,307
+ProstateX-0163-8.jpg,600,600,Usignificant,315,459,367,511
+ProstateX-0163-9.jpg,600,600,Usignificant,339,207,439,307
+ProstateX-0163-10.jpg,600,600,Usignificant,315,183,463,307
+ProstateX-0163-11.jpg,600,600,Usignificant,339,183,451,295
+ProstateX-0163-12.jpg,600,600,Usignificant,339,171,451,271
+ProstateX-0163-13.jpg,600,600,Usignificant,303,171,463,283
+ProstateX-0163-14.jpg,600,600,Usignificant,327,171,451,271
+ProstateX-0163-15.jpg,600,600,Usignificant,351,171,427,283
+ProstateX-0091-6.jpg,600,600,Usignificant,159,255,223,343
+ProstateX-0091-7.jpg,600,600,Usignificant,159,255,235,355
+ProstateX-0091-8.jpg,600,600,Usignificant,159,267,247,355
+ProstateX-0091-9.jpg,600,600,Usignificant,171,255,235,343
+ProstateX-0091-10.jpg,600,600,Usignificant,183,279,259,331
+ProstateX-0174-6.jpg,600,600,Usignificant,364,363,415,427
+ProstateX-0174-7.jpg,600,600,Usignificant,351,351,427,439
+ProstateX-0174-8.jpg,600,600,Usignificant,327,339,463,427
+ProstateX-0174-9.jpg,600,600,Usignificant,327,339,451,427
+ProstateX-0174-10.jpg,600,600,Usignificant,327,339,451,427
+ProstateX-0174-11.jpg,600,600,Usignificant,339,327,463,415
+ProstateX-0174-12.jpg,600,600,Usignificant,412,351,463,403
+ProstateX-0131-1.jpg,600,600,Clinically Significant,255,243,355,307
+ProstateX-0131-2.jpg,600,600,Clinically Significant,243,207,355,319
+ProstateX-0131-3.jpg,600,600,Clinically Significant,231,195,403,367
+ProstateX-0131-4.jpg,600,600,Clinically Significant,279,159,403,355
+ProstateX-0131-5.jpg,600,600,Clinically Significant,267,183,415,331
+ProstateX-0131-6.jpg,600,600,Clinically Significant,267,207,415,331
+ProstateX-0131-7.jpg,600,600,Clinically Significant,267,207,415,307
+ProstateX-0131-8.jpg,600,600,Clinically Significant,231,195,427,355
+ProstateX-0131-9.jpg,600,600,Clinically Significant,255,207,391,307
+ProstateX-0203-7.jpg,600,600,Clinically Significant,324,276,361,394
+ProstateX-0203-8.jpg,600,600,Clinically Significant,339,291,367,394
+ProstateX-0203-11.jpg,600,600,Clinically Significant,261,159,322,235
+ProstateX-0203-12.jpg,600,600,Clinically Significant,255,159,322,220
+ProstateX-0145-6.jpg,600,600,Usignificant,267,231,367,295
+ProstateX-0145-7.jpg,600,600,Usignificant,279,219,355,283
+ProstateX-0145-8.jpg,600,600,Usignificant,291,219,367,283
+ProstateX-0145-9.jpg,600,600,Usignificant,291,219,367,283
+ProstateX-0177-8.jpg,600,600,Usignificant,159,255,211,331
+ProstateX-0177-9.jpg,600,600,Usignificant,159,219,223,319
+ProstateX-0177-9.jpg,600,600,Usignificant,171,327,223,367
+ProstateX-0177-10.jpg,600,600,Usignificant,159,207,223,307
+ProstateX-0177-10.jpg,600,600,Usignificant,183,327,235,367
+ProstateX-0177-11.jpg,600,600,Usignificant,183,255,235,295
+ProstateX-0177-11.jpg,600,600,Usignificant,267,219,331,259
+ProstateX-0177-12.jpg,600,600,Usignificant,279,207,367,259
+ProstateX-0177-13.jpg,600,600,Usignificant,291,219,367,271
+ProstateX-0022-9.jpg,600,600,Usignificant,87,303,247,439
+ProstateX-0022-10.jpg,600,600,Usignificant,123,291,247,403
+ProstateX-0022-11.jpg,600,600,Usignificant,111,267,259,427
+ProstateX-0022-12.jpg,600,600,Usignificant,111,243,235,391
+ProstateX-0058-8.jpg,600,600,Usignificant,219,279,283,331
+ProstateX-0058-9.jpg,600,600,Usignificant,183,279,283,343
+ProstateX-0058-10.jpg,600,600,Usignificant,183,291,259,343
+ProstateX-0058-11.jpg,600,600,Usignificant,195,303,271,379
+ProstateX-0118-9.jpg,600,600,Clinically Significant,267,243,367,319
+ProstateX-0118-10.jpg,600,600,Clinically Significant,267,231,367,331
+ProstateX-0118-10.jpg,600,600,Usignificant,291,387,355,451
+ProstateX-0118-11.jpg,600,600,Clinically Significant,279,231,367,319
+ProstateX-0118-11.jpg,600,600,Usignificant,291,387,379,451
+ProstateX-0118-12.jpg,600,600,Clinically Significant,279,243,367,319
+ProstateX-0118-12.jpg,600,600,Usignificant,291,375,367,439
+ProstateX-0118-13.jpg,600,600,Clinically Significant,279,255,367,331
+ProstateX-0097-6.jpg,600,600,Clinically Significant,219,255,271,295
+ProstateX-0097-7.jpg,600,600,Clinically Significant,207,243,283,307
+ProstateX-0097-8.jpg,600,600,Clinically Significant,195,231,271,307
+ProstateX-0097-9.jpg,600,600,Clinically Significant,207,231,271,295
